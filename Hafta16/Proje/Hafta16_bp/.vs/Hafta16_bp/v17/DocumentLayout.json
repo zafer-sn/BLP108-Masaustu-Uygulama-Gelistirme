@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\silformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\silformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\girisyapformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\girisyapformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\silformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\silformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\kayitformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\kayitformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\kayitformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\kayitformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\girisyapformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\girisyapformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\guncelleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\guncelleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\guncelleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\guncelleformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\verilerformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\verilerformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\verilerformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\verilerformu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\model\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|c:\\users\\zafer\\source\\repos\\hafta16_bp\\hafta16_bp\\model\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{960E31AA-4E4B-4344-94DA-994E848F593E}|Hafta16_bp\\Hafta16_bp.csproj|solutionrelative:hafta16_bp\\model\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KayitFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\KayitFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\KayitFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\KayitFormu.cs [Design]",
+              "RelativeToolTip": "Hafta16_bp\\KayitFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:56:18.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KayitFormu.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\KayitFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\KayitFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\KayitFormu.cs",
+              "RelativeToolTip": "Hafta16_bp\\KayitFormu.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:03:32.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GirisYapFormu.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\GirisYapFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\GirisYapFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\GirisYapFormu.cs",
+              "RelativeToolTip": "Hafta16_bp\\GirisYapFormu.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:33:14.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SilFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\SilFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\SilFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\SilFormu.cs [Design]",
+              "RelativeToolTip": "Hafta16_bp\\SilFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:14:42.798Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SilFormu.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\SilFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\SilFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\SilFormu.cs",
+              "RelativeToolTip": "Hafta16_bp\\SilFormu.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA4wBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:15:33.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuncelleFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\GuncelleFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\GuncelleFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\GuncelleFormu.cs [Design]",
+              "RelativeToolTip": "Hafta16_bp\\GuncelleFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:57:32.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GirisYapFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\GirisYapFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\GirisYapFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\GirisYapFormu.cs [Design]",
+              "RelativeToolTip": "Hafta16_bp\\GirisYapFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:29:00.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuncelleFormu.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\GuncelleFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\GuncelleFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\GuncelleFormu.cs",
+              "RelativeToolTip": "Hafta16_bp\\GuncelleFormu.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAASwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T12:02:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerilerFormu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\VerilerFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\VerilerFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\VerilerFormu.cs [Design]",
+              "RelativeToolTip": "Hafta16_bp\\VerilerFormu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:39:03.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VerilerFormu.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\VerilerFormu.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\VerilerFormu.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\VerilerFormu.cs",
+              "RelativeToolTip": "Hafta16_bp\\VerilerFormu.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:49:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\model\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\model\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\model\\AppDbContext.cs",
+              "RelativeToolTip": "Hafta16_bp\\model\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:06:51.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\model\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Hafta16_bp\\model\\Ogrenci.cs",
+              "ToolTip": "C:\\Users\\Zafer\\source\\repos\\Hafta16_bp\\Hafta16_bp\\model\\Ogrenci.cs",
+              "RelativeToolTip": "Hafta16_bp\\model\\Ogrenci.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:05:25.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
